@@ -7,6 +7,7 @@ Usage via the lazy plugin manager is as follows:
 ```lua
 require("lazy").setup({
     "sumanchapai/nvim-toggle-theme",
+    version = "v0.1.*",
     config = function()
         local toggle = require('ToggleTheme')
         toggle.config({
