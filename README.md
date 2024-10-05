@@ -1,4 +1,4 @@
-Neovim comes with a set of different [color schemes](https://neovim.io/doc/user/usr_06.html).
+Neovim comes with a set of different [color schemes](https://neovim.io/doc/user/usr_06.html#06.3).
 They can be changed via `:colorscheme <tab>` command which lets you select color schemes. This plugin
 lets you toggle between your predefined set of neovim colorschemes.
 
