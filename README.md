@@ -36,3 +36,9 @@ Explanation of above code:
 3. Then, outside of the module config, we are setting a keymap to call the module's Toggle function
    using our preferred key bindings. Note that this is done in the config function provided to lazy,
    not to the ToggleTheme module.
+
+   ### Known Issues
+
+   1. If you're have another colorscheme installed like: tokyonight and its theme as option to `nvim-toggle-theme`,
+      you'll have to provided the full name like: `tokyonight-dark` or `tokyonight-day` instead of just `tokyonight`.
+      The latter exhibits unknown behavior.
