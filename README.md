@@ -39,6 +39,6 @@ Explanation for the setup above code:
 
 ### Known Issues
 
-1. If you're ha1e another colorscheme installed like: tokyonight and you want to pass its theme as option to
+1. If you're have another colorscheme installed like: tokyonight and you want to pass its theme as option to
    `nvim-toggle-theme`, you'll have to provided the full name like: `tokyonight-dark` or `tokyonight-day` instead of
    just `tokyonight`. The latter exhibits unknown behavior.
